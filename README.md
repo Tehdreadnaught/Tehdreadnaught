@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tehdreadnaught&label=Profile%20views&color=0e75b6&style=flat" alt="Tehdreadnaught" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tehdreadnaught</h1>
+<h1 align="center">Hi 👋, I'm ted</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
